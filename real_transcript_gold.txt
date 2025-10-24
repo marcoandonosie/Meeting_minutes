@@ -1,0 +1,70 @@
+ChatGPT said:
+DELIMITER: CONTEXT
+
+Rapat ini merupakan diskusi antara berbagai kementerian, terutama Kementerian Keuangan (Kemenkeu), untuk membahas rancangan perubahan Peraturan Presiden terkait proyek Pengolahan Sampah menjadi Energi Listrik (PSEL). Pertemuan berfokus pada pengaturan skema kompensasi, subsidi, dan penugasan kepada PLN, serta pembagian tanggung jawab antara pemerintah pusat dan daerah. Diskusi juga mencakup aspek hukum, pembiayaan, dan mekanisme pengawasan terhadap proyek-proyek berbasis sampah nasional.
+
+DELIMITER: PARTICIPANTS
+
+Bu Nani (Kemenko Pangan)
+
+Perwakilan Kementerian Keuangan (Kemenkeu)
+
+Tyo (Biro Hukum, Kemenkeu)
+
+Pak Bono (Danantara)
+
+Perwakilan Badan Pengawasan Keuangan dan Pembangunan (BPKP)
+
+Perwakilan Kementerian Energi dan Sumber Daya Mineral (ESDM)
+
+Perwakilan Kementerian Dalam Negeri (Kemendagri)
+
+Perwakilan Kementerian Lingkungan Hidup dan Kehutanan (KLHK)
+
+DELIMITER: DISCUSSION POINTS
+
+Pembahasan rancangan pasal-pasal Perpres, termasuk skema kompensasi, subsidi, dan penugasan pembelian listrik oleh PLN.
+
+Bu Nani menyoroti perlunya antisipasi Surat Keputusan Bersama (SKB) dan masukan dari Kementerian BUMN.
+
+Pembahasan mengenai skema kontrak jangka panjang (30 tahun) dan opsi BOT, BOOT, atau BOO untuk memastikan keberlanjutan operasi PSEL oleh pemerintah daerah.
+
+Usulan perlunya kejelasan mekanisme subsidi dan kompensasi harga listrik oleh PLN, serta dukungan pembiayaan dari APBN.
+
+Kemenkeu menegaskan perlunya pembahasan internal terkait perubahan skema dan posisi fiskal pemerintah pusat.
+
+Kemenkeu menolak penetapan harga tetap 20 sen per kWh dan mengusulkan batas maksimum (ceiling) 20 sen agar fleksibel terhadap perkembangan teknologi.
+
+Ditegaskan bahwa Perpres cukup menjadi dasar hukum tanpa memerlukan SKB tiga menteri tambahan.
+
+Tyo (Biro Hukum, Kemenkeu) menyampaikan bahwa penugasan kepada PLN sudah disetujui di tingkat Wamen dan bahwa pendanaan tambahan dapat dilakukan melalui PMN sesuai rezim keuangan saat ini.
+
+PLN akan tetap menjadi offtaker tunggal listrik, dengan kompensasi disesuaikan terhadap beban BPP (Biaya Pokok Produksi).
+
+Kemenkeu menekankan perlunya basis yang jelas untuk penentuan tipping fee (5–6 sen) agar tidak menimbulkan disparitas harga.
+
+Pembahasan mengenai kebutuhan verifikasi subsidi dan audit oleh BPKP berdasarkan biaya pokok produksi aktual.
+
+Pak Bono (Danantara) menekankan pentingnya menjaga keekonomian proyek dan menyampaikan kekhawatiran atas risiko apabila suplai sampah dari pemda tidak terpenuhi.
+
+BPKP menyoroti perlunya mekanisme lelang yang adil dan transparan untuk mencegah penyimpangan serta memastikan kewajaran harga 20 sen per kWh.
+
+BPKP juga mengingatkan agar proyek-proyek eksisting diselesaikan terlebih dahulu sebelum mengikuti skema baru.
+
+Kemendagri mencatat rendahnya realisasi pendapatan daerah dari retribusi persampahan, menandakan lemahnya kapasitas fiskal daerah.
+
+Kemenkeu mengingatkan bahwa dalam jangka panjang, subsidi perlu dirancang lebih efektif untuk mencegah beban fiskal berlebihan.
+
+DELIMITER: ACTION ITEMS
+
+Kemenkeu akan melakukan pembahasan internal terkait pasal-pasal yang masih perlu penyelarasan sebelum rapat lanjutan.
+
+Pembahasan lanjutan dijadwalkan minggu berikutnya untuk finalisasi substansi Perpres dan penyepakatan batas harga listrik.
+
+Danantara diminta menyiapkan kajian tambahan mengenai skema kompensasi dan risiko fiskal bagi investor.
+
+BPKP akan melakukan verifikasi dan audit basis biaya (BPP) sebagai dasar perhitungan subsidi dan kompensasi.
+
+Kemenkeu, ESDM, dan Kemendagri akan meninjau ulang mekanisme subsidi, tipping fee, dan skema dukungan APBN terhadap proyek PSEL.
+
+Tidak ada keputusan final yang diambil dalam pertemuan ini; seluruh pihak sepakat untuk melanjutkan pembahasan teknis pada rapat berikutnya.

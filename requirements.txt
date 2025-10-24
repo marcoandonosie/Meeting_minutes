@@ -1,0 +1,96 @@
+Danantara AI Meeting Minutes Generator — System Overview
+Objective
+
+
+The system automates the creation of standardized Minutes of Meeting (MoM) documents from bilingual (English–Indonesian) meeting discussions. It streamlines the documentation process for internal use, audits, and BOD reviews by transcribing recordings, structuring information, and generating official MoM files in a consistent format.
+
+
+Workflow Summary
+The tool runs in three main stages — each modular and testable on its own:
+
+1. Transcription (Input: Audio → Output: Text)
+
+File: transcribe.py
+Purpose: Converts spoken bilingual audio (English–Indonesian mix) into text.
+How it works:
+
+Takes an uploaded audio file (e.g. .mp3, .wav, .m4a)
+
+Sends it to ElevenLabs’ Speech-to-Text API
+
+Returns a plain-text transcript of the full conversation
+
+Input: Raw audio file (meeting recording)
+Output: Transcript text (as a Python string)
+
+2. Parsing (Input: Transcript → Output: Structured JSON)
+
+File: parser.py
+Purpose: Uses GPT to extract key meeting details from the transcript into a clean, standardized structure.
+How it works:
+
+Sends the transcript to GPT with a custom prompt asking it to identify:
+
+Date and time of meeting
+
+Participants
+
+Context or background
+
+Key discussion points
+
+Action items or next steps
+
+GPT outputs a structured JSON object
+
+Input: Transcript text
+Output: JSON (structured meeting summary)
+
+3. Document Generation (Input: JSON → Output: MoM Word File)
+
+File: docgen.py
+Purpose: Converts the structured GPT output into an official Word document formatted according to Danantara’s internal MoM template.
+How it works:
+
+Reads the JSON data
+
+Auto-fills standard sections:
+
+“Tanggal & Judul Rapat”
+
+“Peserta Rapat”
+
+“Konteks / Latar Belakang”
+
+“Pokok Pembahasan”
+
+“Tindak Lanjut / Langkah Berikutnya”
+
+Exports as a .docx file
+
+Input: JSON data
+Output: Downloadable .docx file (final MoM)
+
+Front-End Interface
+
+File: app.py
+Purpose: Provides a user-friendly interface built on Streamlit.
+Features:
+
+Users can upload audio or paste a transcript
+
+The tool automatically runs transcription → parsing → document generation
+
+Users can download the completed MoM instantly
+
+End-to-End Flow
+
+User uploads or pastes meeting input
+
+Audio is transcribed (if applicable)
+
+GPT parses transcript into structured summary
+
+MoM document is generated automatically
+
+User downloads a ready-to-file .docx report
